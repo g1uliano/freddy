@@ -1,0 +1,67 @@
+/**********************************************/
+/* Freddy - Baseado na Engine do Php-Nuke 7.5 */
+/* ------------------------------------------ */
+/*                                            */
+/* Freddy é um Software Livre liberado sob    */
+/* Licença GNU/GPL.                           */
+/*                                            */
+/* CoDeD By HellNeT InterneT Services         */
+/* Desenvolvedor: Giuliano Cardoso            */
+/**********************************************/
+/* Baseado no Php-Nuke 7.5                    */
+/* http://www.phpnuke.org                     */
+/**********************************************/
+//Sobre a  Licença GNU/GPL - http://www.gnu.org
+/************************************************************************************/
+/*  Freedy é um software livre; você pode redistribui-lo e/ou                       */
+/*  modifica-lo dentro dos termos da Licença Pública Geral GNU como                 */
+/*  publicada pela Fundação do Software Livre (FSF); na versão 2 da                 */
+/*  Licença.                                                                        */
+/*                                                                                  */
+/*  O Freddy é distribuido na esperança que possa ser  util,                        */
+/*  mas SEM NENHUMA GARANTIA; sem uma garantia implicita de ADEQUAÇÂO a qualquer    */
+/*  MERCADO ou APLICAÇÃO EM PARTICULAR. Veja a                                      */
+/*  Licença Pública Geral GNU para maiores detalhes.                                */
+/*                                                                                  */
+/*  Você deve ter recebido uma cópia da Licença Pública Geral GNU                   */
+/*  junto com este programa, se não, escreva para a Fundação do Software            */
+/*  Livre(FSF) Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA       */
+/************************************************************************************/
+
+O que é, e para que é?
+
+O Freddy não foi criado para ser mais um concorrente do Php-Nuke, o mesmo foi desenvolvido para ser um
+sistema de desenvolvimento de sites de alta costumização, um mesclado de framework com Sistema de Gerenciamento
+de conteudo. Como o Freddy é de altissima costumização, você poderá torna-lo "a sua cara", mesmo
+que você não tenha conhecimentos de programa php.
+
+Como Instalar?
+
+Envie todos os arquivos da pasta html para o servidor. Coloque na pasta www ou public_html, dependendo do seu
+server.
+Crie um banco de dados em um usuário.
+Acesse: http://seusite.com/pastadofreddy/install
+
+ATENÇÃO!
+Dê permissão 666 as pastas abaixo:
+- db/dbtxt
+- modules
+- upload
+
+Sobre os Temas...
+
+Estou desenvolvendo temas para o Freddy, mas enquanto eles não saem, você pode baixar temas do Php-Nuke para usá-los no Freddy,
+já que o mesmo da suporte a esses temas.Vale ressaltar que a engine dos temas continua a mesma do Nuke 7.5, sendo assim você tem
+no Freddy todas as facilidades de desenvolvimento de temas existentes no Php-Nuke.
+
+Em Caso de Bug's entre em contato: http://freddy.codigolivre.org.br/index.php?area=contato
+
+Manual do Freddy disponivel em: http://freddy.codigolivre.org.br/index.php?area=manual
+
+Giuliano Cardoso
+----------------
+Desenvolvedor do Freddy
+http://freddy.codigolivre.org.br
+
+OBS: Estamos precisando de pessoas que saibam programar em PHP para adicionar novas implementações ao Freddy e principalmente desenvolver
+módulos.

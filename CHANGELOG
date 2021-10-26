@@ -1,0 +1,73 @@
+CHANGELOG
+----------
+Freddy 0.9
+
+- Adicionado nova versão do editor tiny_mce;
+- Alterado o sistema de módulos;
+- Aumentada a segurança do Freddy, baseado em códigos do Nuke;
+
+Freddy 0.8
+- Adicionado sistema de verificação de permissões;
+- Remoção de códigos inuteis do mainfile.php;
+- Correção de bug no sistema de mensagens;
+- Correção de Bug no admin.php;
+- Correção de Segurança no area.php;
+- Correção nos Extras;
+- Correção no instalador;
+- Correção no código de segurança;
+
+Freddy 0.7
+- Adicionado verificador de atualizações no instalador do Freddy;
+- Corrigido bug no verificador de atualizações do admin.php;
+- Correção de Bug ligado a criação de administrador no admin.php;
+- Adição de novas variaveis globais no mainfile.php;
+- Adicionado um editor mais leve as configurações;
+- Adicionada escolha de editor no admin.php;
+- Adicionado a administração de módulos (optativa) no admin.php;
+- Adicionado escolha de editor no admin.php.
+
+Freddy 0.6
+- Removido ativador de banners ("Obs: Por total falta de atenção, deixei este recurso, mesmo depois de ter removido o módulo banners, isso é resultante da falta de desenvolvedores neste projeto, hehehehe");
+- Adicionado verficador de versões;
+- Reduzido o tamanho do Freddy;
+- Alteração no instalador do Freddy;
+- Revisão no freddy.sql.
+
+Freddy 0.5
+- Correção no Tema;
+- Redução de Linha de Códigos dos arquivos bases;
+- Correção no footer.php;
+- Correção nos includes;
+- Revisão nos módulos
+
+Freddy 0.4
+- Removido o patético sistema de banners do Php-Nuke; 
+- Revisão no módulo Contato;
+- Correção no Tema;
+- Alteração no Instalador;
+- Revisão no ipban.php;
+- Correção no Módulo Contato;
+
+Freddy 0.3
+- Adicionado o Módulo Google;
+- Alteração no admin.php e nos arquivos br.php;
+- Revisão no EasyModules;
+- Revisão no Editor;
+- Adicionado o tema neofreddy;
+- Deletado o tema freddy;
+- Adicionado a pasta extras com o módulo Gerenciador de Erros;
+- Criado o CHANGELOG.
+
+Freddy 0.2
+- Corrigida as poucas falhas existentes na versão anterior;
+- Correção do EasyModules;
+- Correção em uma sequência de módulos;
+- Alteração no Módulo Contato;
+- Colocado o módulo Estatisticas como Principal;
+- Corrigido o instalador;
+
+Freddy 0.1
+- Iniciei o Desenvolvimento do Freddy;
+- Criado o EasyModules;
+- Adicionado o Tema Freddy;
+- Adaptado o sistema do Nuke Lite.

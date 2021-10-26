@@ -1,0 +1,29 @@
+Sem o banners.php... e agora?
+
+Bom, o sistema de banners original do Php-Nuke era patético,
+então resolvi retirá-lo e seguir uma dica que havia encontrado
+na internet tempos atrás.Usar o phpAdsNew é o melhor.
+
+Com ele você pode monitorar "n" banners por apenas um site,
+assim podemos colocar um host no ar,e fazer com que os outros
+sites usem apenas o sistema de impressão dos banners.
+
+Ex: Site a quer ter um sistema de banners, então ele pode ter
+o ads instalado ou usar um sistema de banners de terceiros, no
+caso o do nosso site.Ele entra no nosso site com o seu login
+e senha, gera o seu banners, e coloca o código no seu site.
+
+Com ele pode-se gerar sistema de banners flutuantes (em dhtml),
+popup's, e anuncios inteligentes como os do Google!
+
+Ele tem tradução para o português e tudo mais... 
+
+É só inserir o código no header.html do tema, ou criar
+um file chamado banners.php com o código desejado, e uma
+função de include para o tema.
+
+Usam esse sistema neste site: http://www.nukebrasil.org.
+
+Sites Oficiais do phpAdsNew:
+http://phpadsnew.com/
+http://sourceforge.net/projects/phpadsnew

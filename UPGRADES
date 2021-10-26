@@ -1,0 +1,3 @@
+Caso você já seja um usuário do Freddy, e deseje apenas atualizar o seu sistema SGC-Framework preferido, você deve apenas enviar todos os arquivos da pasta html (com exceção do arquivo config.php e da pasta install) para a raiz do seu Freddy e executar o arquivo upgradeSUAVERSAO-VERSAOATUAL.php, que irá atualizar o banco de dados.
+
+Obs: Se você estiver rodando o Freddy 0.7, vale ressaltar que você deve fazer uma pequena alteração no seu config.php.Abra o seu config.php e substitua o valor de $gfx_chk para 0 ou 1 (1 para ativar o código de segurança no admin.php e 0 para desativar o mesmo).
